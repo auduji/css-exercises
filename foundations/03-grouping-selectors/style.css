@@ -1,0 +1,14 @@
+.bw,
+.yel {
+font-size: 28px;
+font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.bw {
+    background-color: hsl(120,100%,0%);
+    color: hsl(120, 100%, 100%);
+}
+
+.yel {
+    background-color: rgb(255, 252, 100);
+}
